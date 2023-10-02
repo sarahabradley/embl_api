@@ -3,7 +3,7 @@
 ## Requirements
 - Python3
 - mysql
-the rest of the requirements are documented in requirements.txt
+- the rest of the requirements are documented in requirements.txt
 
 ## Setup database from scratch
 - Connect to your server in the terminal by entering `mysql -u username -p password`, replacing username and password with the username and password you have set up with mysql.
